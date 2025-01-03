@@ -1,0 +1,24 @@
+2025-01-03 15:32:39,572:INFO:'C:\Users\koll2\OneDrive\문서\GitHub\JJU_2\과제\result.txt' 파일을 성공적으로 읽었습니다.
+2025-01-03 15:32:47,505:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-03 15:32:47,512:INFO:모델의 정량 평가를 성공적으로 수행했습니다.
+2025-01-03 15:32:47,513:INFO:모델의 정량 평가 결과가 'C:\Users\koll2\OneDrive\문서\GitHub\JJU_2\과제\score.md' 파일에 성공적으로 저장되었습니다.
+2025-01-03 15:33:29,684:INFO:PyPDF 로더로 첫 번째 페이지를 성공적으로 로드했습니다.
+2025-01-03 15:33:29,842:INFO:PyMuPDF 로더로 첫 번째 페이지를 성공적으로 로드했습니다.
+2025-01-03 15:33:29,969:INFO:PyPDFium2 로더로 첫 번째 페이지를 성공적으로 로드했습니다.
+2025-01-03 15:33:32,313:INFO:PDFMiner 로더로 첫 번째 페이지를 성공적으로 로드했습니다.
+2025-01-03 15:33:35,328:INFO:PDFPlumber 로더로 첫 번째 페이지를 성공적으로 로드했습니다.
+2025-01-03 15:33:35,329:INFO:=== PyPDF ===
+2025-01-03 15:33:35,329:INFO:PyPDF 첫 번째 페이지 내용을 저장했습니다.
+2025-01-03 15:33:35,329:INFO:=== PyMuPDF ===
+2025-01-03 15:33:35,329:INFO:PyMuPDF 첫 번째 페이지 내용을 저장했습니다.
+2025-01-03 15:33:35,329:INFO:=== PyPDFium2 ===
+2025-01-03 15:33:35,329:INFO:PyPDFium2 첫 번째 페이지 내용을 저장했습니다.
+2025-01-03 15:33:35,329:INFO:=== PDFMiner ===
+2025-01-03 15:33:35,329:INFO:PDFMiner 첫 번째 페이지 내용을 저장했습니다.
+2025-01-03 15:33:35,329:INFO:=== PDFPlumber ===
+2025-01-03 15:33:35,329:INFO:PDFPlumber 첫 번째 페이지 내용을 저장했습니다.
+2025-01-03 15:33:35,329:INFO:모든 로더의 첫 번째 페이지 내용이 'C:\Users\koll2\OneDrive\문서\GitHub\JJU_2\과제\result.txt' 파일에 성공적으로 저장되었습니다.
+2025-01-03 15:33:35,665:INFO:'C:\Users\koll2\OneDrive\문서\GitHub\JJU_2\과제\result.txt' 파일을 성공적으로 읽었습니다.
+2025-01-03 15:33:45,840:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-03 15:33:45,852:INFO:모델의 정량 평가를 성공적으로 수행했습니다.
+2025-01-03 15:33:45,852:INFO:모델의 정량 평가 결과가 'C:\Users\koll2\OneDrive\문서\GitHub\JJU_2\과제\score.md' 파일에 성공적으로 저장되었습니다.
